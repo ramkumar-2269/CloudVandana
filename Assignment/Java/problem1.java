@@ -1,4 +1,6 @@
-package Java;
+//Create an array with the values (1, 2, 3, 4, 5, 6, 7) and shuffle it.
+
+package Assignment.Java;
 import java.util.*;
 
 public class problem1{
